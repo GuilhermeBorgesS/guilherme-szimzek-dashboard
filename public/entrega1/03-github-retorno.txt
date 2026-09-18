@@ -1,0 +1,5 @@
+Página inicial (Homepage URL) cadastrada na OAuth App do GitHub:
+https://SEU-PROJETO.pages.dev
+
+URL de retorno (Authorization callback URL) cadastrada na OAuth App do GitHub:
+https://SEU-PROJETO.pages.dev/oauth/callback/github

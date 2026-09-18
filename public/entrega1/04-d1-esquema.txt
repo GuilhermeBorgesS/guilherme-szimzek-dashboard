@@ -1,0 +1,16 @@
+Resultado da consulta executada no console D1:
+
+SELECT name, type
+FROM sqlite_schema
+WHERE name NOT LIKE 'sqlite_%'
+ORDER BY type, name;
+
+name                          | type
+-------------------------------------------
+oauth_transactions_expiry     | index
+sessions_expiry               | index
+oauth_transactions            | table
+sessions                      | table
+
+(Substitua pelo resultado real copiado do console D1 do seu banco
+oauth-sessions-EQUIPE.)

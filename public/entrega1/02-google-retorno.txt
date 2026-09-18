@@ -1,0 +1,5 @@
+URL de retorno cadastrada no Google Cloud Console (cliente OAuth Web):
+
+https://SEU-PROJETO.pages.dev/oauth/callback/google
+
+Escopos solicitados: openid email profile
